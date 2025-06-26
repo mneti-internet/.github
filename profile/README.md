@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/mneti-internet/mneti-assets/main/logos/mneti-logo.png" width="150" alt="Mneti Logo" />
 </p>
 
-<h1 align="center">Mneti Internet</h1>
+<h1 align="center">Mneti </h1>
 
 <p align="center">
   <strong>Kenya’s dynamic internet — built for everyday life.</strong><br/>
